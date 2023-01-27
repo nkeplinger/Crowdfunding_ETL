@@ -20,11 +20,12 @@ The output CSVs from this code can be found here:
 `category.csv`
 `contacts.csv`
 `subcategory.csv`
-
-A ERD diagram of these files can be found here:
-`Crowdfunding_ERD_ETL_Challenge.png`
-
 A SQL code can be found here: 
 ``
+
+A JPG file of the ERD diagram for this project can be found here:
+`Crowdfunding_ERD_ETL_Challenge.png`
+![alt text](https://github.com/nkeplinger/Crowdfunding_ETL/blob/main/Crowdfunding_ERD_ETL_Challenge.png)
+
 
 ###THANKS! - Dylan and Nicolette 
