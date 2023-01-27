@@ -16,7 +16,15 @@ The final python code for data extraction and transformation can be found in the
 `ETL_Mini_Project_dkurbel_nkeplinger.ipynb`
 
 The output CSVs from this code can be found here:
+`campaign.csv`
+`category.csv`
+`contacts.csv`
+`subcategory.csv`
 
 A ERD diagram of these files can be found here:
+`Crowdfunding_ERD_ETL_Challenge.png`
 
 A SQL code can be found here: 
+``
+
+###THANKS! - Dylan and Nicolette 
